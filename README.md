@@ -17,7 +17,7 @@
 </div>
 
 
-<h2>Sparetime: 🦜</h2>
+<h2>Sparetime : 🦜</h2>
 <ul>
 <li>🎬 I like to visit anything cultural.</li>
 <li>🚴 You can find me biking on a foldable bike, drinking a Chai Latte and walking in nature.</li>
