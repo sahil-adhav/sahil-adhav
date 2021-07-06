@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Sahil 🍕</h1>
 
-<img src="https://i.ibb.co/7vmB9Tv/Sahil-adhav.png" alt="linkdin" border="0">
+<!-- <img src="https://i.ibb.co/7vmB9Tv/Sahil-adhav.png" alt="linkdin" border="0"> -->
+<img src="https://i.ibb.co/TtRxHYs/maddox-linkdedin.png" alt="maddox-linkdedin" border="0">
 
 <h3 align="center"> 🧑🏻 I’m a <i>web & software developer</i> from Pune, India.</h3>
 <br>
