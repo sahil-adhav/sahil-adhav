@@ -24,3 +24,15 @@
 <li>🚴 You can find me biking on a foldable bike, drinking a Chai Latte and walking in nature.</li>
 <li>🌷 Enjoying familylife and learning new things related to webdesign and webdevelopment is what keeps me alive and kicking.</li>
 </ul> 
+<br>
+<h2>GitHub Stats : 💻</h2>
+
+![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=maddox-16&show_icons=true&theme=midnight-purple)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maddox-16&layout=compact&theme=midnight-purple&langs_count=8)](https://github.com/maddox-16/github-readme-stats)
+
+
+
+
+
+
+
