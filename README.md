@@ -28,8 +28,15 @@
 <h2>GitHub Stats : 💻</h2>
 
 ![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=maddox-16&show_icons=true&theme=midnight-purple)&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maddox-16&layout=compact&theme=midnight-purple&langs_count=8)](https://github.com/maddox-16/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maddox-16&layout=default&theme=midnight-purple&langs_count=8)](https://github.com/maddox-16/github-readme-stats)
 <br><br>
+
+<h2>GitHub Activity :🔥</h2>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=maddox-16&theme=github)](https://github.com/maddox-16/github-readme-activity-graph)
+
+
+<br>
 <h2>Top Repos : 💻</h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maddox-16&repo=AlanAI-Radio&theme=midnight-purple)](https://github.com/maddox-16/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
