@@ -27,7 +27,7 @@
 <br>
 <h2>GitHub Stats : 💻</h2>
 
-![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=maddox-16&show_icons=true&theme=midnight-purple)&nbsp;&nbsp;&nbsp;
+![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=maddox-16&show_icons=true&theme=midnight-purple)&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maddox-16&layout=compact&theme=midnight-purple&langs_count=8)](https://github.com/maddox-16/github-readme-stats)
 
 
