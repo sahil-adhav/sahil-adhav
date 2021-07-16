@@ -45,7 +45,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maddox-16&repo=AlanAI-Radio&theme=midnight-purple&layout=compact)](https://github.com/maddox-16/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maddox-16&repo=Health-Services-Medical-Outcome-Monitoring&theme=midnight-purple)](https://github.com/maddox-16/github-readme-stats)<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maddox-16&repo=Covid_Bed_Tracker&theme=midnight-purple)](https://github.com/maddox-16/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maddox-16&repo=VIT-Student-App&theme=midnight-purple)](https://github.com/maddox-16/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maddox-16&repo=VIT-Student-App&theme=midnight-purple&layout=compact)](https://github.com/maddox-16/github-readme-stats)
 
 
 
