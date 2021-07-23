@@ -30,22 +30,22 @@
 
 <h2>GitHub Stats : 💻</h2>
 
-![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=maddox-16&show_icons=true&theme=midnight-purple)&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maddox-16&layout=compact&theme=midnight-purple&langs_count=8)](https://github.com/maddox-16/github-readme-stats)
+![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahil-adhav&show_icons=true&theme=midnight-purple)&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-adhav&layout=compact&theme=midnight-purple&langs_count=8)](https://github.com/sahil-adhav/github-readme-stats)
 <br><br>
 
 <h2>GitHub Activity :🔥</h2>
 
-[![Sahil's github activity graph](https://activity-graph.herokuapp.com/graph?username=maddox-16&theme=github)](https://github.com/maddox-16/github-readme-activity-graph)
+[![Sahil's github activity graph](https://activity-graph.herokuapp.com/graph?username=sahil-adhav&theme=github)](https://github.com/sahil-adhav/github-readme-activity-graph)
 
 
 <br>
 <h2>Top Repos : 💻</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maddox-16&repo=AlanAI-Radio&theme=midnight-purple&layout=compact)](https://github.com/maddox-16/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maddox-16&repo=Health-Services-Medical-Outcome-Monitoring&theme=midnight-purple)](https://github.com/maddox-16/github-readme-stats)<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maddox-16&repo=Covid_Bed_Tracker&theme=midnight-purple)](https://github.com/maddox-16/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maddox-16&repo=VIT-Student-App&theme=midnight-purple&layout=compact)](https://github.com/maddox-16/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sahil-adhav&repo=AlanAI-Radio&theme=midnight-purple&layout=compact)](https://github.com/sahil-adhav/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sahil-adhav&repo=Health-Services-Medical-Outcome-Monitoring&theme=midnight-purple)](https://github.com/sahil-adhavgithub-readme-stats)<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sahil-adhav&repo=Covid_Bed_Tracker&theme=midnight-purple)](https://github.com/sahil-adhav/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sahil-adhav&repo=VIT-Student-App&theme=midnight-purple&layout=compact)](https://github.com/sahil-adhav/github-readme-stats)
 
 
 
