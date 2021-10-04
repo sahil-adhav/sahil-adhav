@@ -33,12 +33,12 @@
 ![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahil-adhav&show_icons=true&theme=midnight-purple)&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-adhav&layout=compact&theme=midnight-purple&langs_count=8)](https://github.com/sahil-adhav/github-readme-stats)
 <br><br>
-
+<!-- 
 <h2>GitHub Activity :🔥</h2>
 
 [![Sahil's github activity graph](https://activity-graph.herokuapp.com/graph?username=sahil-adhav&theme=github)](https://github.com/sahil-adhav/github-readme-activity-graph)
 
-
+ -->
 <br>
 <h2>Top Repos : 💻</h2>
 
