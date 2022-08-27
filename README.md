@@ -6,9 +6,8 @@
 <h3 align="center"> 🧑🏻 I’m a <i>web & software developer</i> from Pune, India.</h3>
 <br>
 <ul>
- <li>🔭 I’m currently studying at VIT Pune.</li>
-<li>❤️ I love to research, design wireframes and prototypes, to code, build websites and web applications.</li>
-<li>📚 Learning new things, self driven, hard working and friendly.😃</li>
+ <li>🔭 Hi, I'm Sahil 🍕. I'm a Pune based Computer Science Student. I'm looking for Position/job within my chosen field that will challenge me and allow me to use my education, skills and past experiences in a way that is mutually beneficial to both myself and my employer and allow future growth and advancement.li>
+<li>📚 I love to research, design wireframes and prototypes, to code, build websites and web applications. I love to create and tend to keep a few too many projects on the go at a time. Outside of work I love to trave & l am a basketball & cricket player.</li>
 </ul>
 
 <h2>Languages & Tools :</h2>
@@ -28,24 +27,9 @@
 <li>🌷 Enjoying familylife and learning new things related to webdesign and webdevelopment is what keeps me alive and kicking.</li>
 </ul> 
 
-<h2>GitHub Stats : 💻</h2>
+<h2>Coding Profile : 🧑‍💻</h2>
 
-![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahil-adhav&show_icons=true&theme=midnight-purple)&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-adhav&layout=compact&theme=midnight-purple&langs_count=8)](https://github.com/sahil-adhav/github-readme-stats)
-<br><br>
-<!-- 
-<h2>GitHub Activity :🔥</h2>
-
-[![Sahil's github activity graph](https://activity-graph.herokuapp.com/graph?username=sahil-adhav&theme=github)](https://github.com/sahil-adhav/github-readme-activity-graph)
-
- -->
-<br>
-<h2>Top Repos : 💻</h2>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sahil-adhav&repo=AlanAI-Radio&theme=midnight-purple&layout=compact)](https://github.com/sahil-adhav/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sahil-adhav&repo=Health-Services-Medical-Outcome-Monitoring&theme=midnight-purple)](https://github.com/sahil-adhavgithub-readme-stats)<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sahil-adhav&repo=Covid_Bed_Tracker&theme=midnight-purple)](https://github.com/sahil-adhav/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sahil-adhav&repo=VIT-Student-App&theme=midnight-purple&layout=compact)](https://github.com/sahil-adhav/github-readme-stats)
+![](https://leetcard.jacoblin.cool/sahiladhav16?ext=activity)
 
 
 
