@@ -20,9 +20,9 @@
 <li>🌷 Enjoying familylife and learning new things related to webdesign and webdevelopment is what keeps me alive and kicking.</li>
 </ul> 
 
-<h2>Coding Profile : 🧑‍💻</h2>
+<!-- <h2>Coding Profile : 🧑‍💻</h2>
 
-![](https://leetcard.jacoblin.cool/advjr?ext=activity)
+![](https://leetcard.jacoblin.cool/advjr?ext=activity) -->
 
 
 
